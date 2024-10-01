@@ -1,5 +1,8 @@
 <div align="center">
-  <h1>Project #2 -SafeBlink</h1>
+  <h1>SafeBlink</h1>
+  <p>
+  Single-page web application aimed at educating users about personal data protection and online safety. This was my second project for the Front-end development academy.
+  </p>
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -13,7 +16,7 @@
   </ol>
 </details>
 
-<h2 id="build-with">Build with</h2>
+<h2 id="build-with">Technologies Used</h2>
 
 - ![HTML](https://img.shields.io/badge/-HTML5-e34c26?logo=html5&logoColor=white)
 - ![CSS](https://img.shields.io/badge/-CSS3-264de4?logo=css3&logoColor=white)
@@ -22,7 +25,7 @@
 
 <h2 id="about-the-project">About the Project</h2>
 
-Second project for the Front end development academy is single page web application for SafeBlink. The goal is to educate us on topics of personal data protection and online safety. The design was already main and my job was using dummy data to make it functional and responsive. Please refer to the instructions below.
+SafeBlink was my second project for the Front end development academy, a single page web application for SafeBlink. The goal of the organization is to educate us on topics of personal data protection and online safety. The design was already main and my job was using dummy data and vanila JavaScript to make it functional and responsive. Please refer to the instructions below.
 
 <!-- - [Project 01 - Brainster Lab](https://git.brainster.co/Filip.Purdanoski-FE16/BrainsterChallenges_FilipPurdanoskiFE16/-/tree/Challenge-01-HTML)
 - [Challenge 02 - CSS](https://git.brainster.co/Filip.Purdanoski-FE16/BrainsterChallenges_FilipPurdanoskiFE16/-/tree/Challenge-02-CSS-Intro)
@@ -31,7 +34,7 @@ Second project for the Front end development academy is single page web applicat
 - [Challenge 05 -CSS Flex Git](https://git.brainster.co/Filip.Purdanoski-FE16/BrainsterChallenges_FilipPurdanoskiFE16/-/tree/Challenge-05-CSS-Flex-and-Git)
 - [Challenge 06 -Git & GitLab](https://git.brainster.co/Filip.Purdanoski-FE16/BrainsterChallenges_FilipPurdanoskiFE16/-/tree/Challenge-06-Git-and-GitLab) -->
 
-<h2 id="description-of-project">Instructions</h2>
+<h2 id="description-of-project">Project Instructions</h2>
 
 1. <h3>Navigation within the app:</h3>
 
