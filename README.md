@@ -25,7 +25,7 @@
 
 <h2 id="about-the-project">About the Project</h2>
 
-SafeBlink was my second project for the Front end development academy, a single page web application for SafeBlink. The goal of the organization is to educate us on topics of personal data protection and online safety. The design was already main and my job was using dummy data and vanila JavaScript to make it functional and responsive. Please refer to the instructions below.
+SafeBlink was my second project for the Front end development academy, a single page web application for SafeBlink. The goal of the organization is to educate us on topics of personal data protection and online safety. With the design provided by the academy, my job was using dummy data and vanila JavaScript to make it functional and responsive. Please refer to the instructions below.
 
 <!-- - [Project 01 - Brainster Lab](https://git.brainster.co/Filip.Purdanoski-FE16/BrainsterChallenges_FilipPurdanoskiFE16/-/tree/Challenge-01-HTML)
 - [Challenge 02 - CSS](https://git.brainster.co/Filip.Purdanoski-FE16/BrainsterChallenges_FilipPurdanoskiFE16/-/tree/Challenge-02-CSS-Intro)
